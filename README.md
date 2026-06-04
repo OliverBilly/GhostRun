@@ -3,16 +3,20 @@
 ## Tampilan Game
 
 ### Main Menu
-![Main Menu Ghost Run](assets/images/main-menu.png)
+<img width="752" height="419" alt="Screenshot 2026-06-04 134709" src="https://github.com/user-attachments/assets/d75ad745-78ed-4aec-8bff-f8cb7c215f55" />
+
 
 ### Tampilan Level
-![Level Ghost Run](assets/images/level.png)
+<img width="755" height="417" alt="image" src="https://github.com/user-attachments/assets/0c6ce151-a419-47f3-9920-8246a52ddb2c" />
+
 
 ### Tampilan Gameplay
-![Gameplay Ghost Run](assets/images/gameplay.png)
+<img width="756" height="424" alt="image" src="https://github.com/user-attachments/assets/cd2daa9b-23a5-45ff-b7b1-1b3a96bc08f6" />
+
 
 ### Tampilan About
-![About Ghost Run](assets/images/about.png)
+<img width="760" height="422" alt="image" src="https://github.com/user-attachments/assets/10acca51-c176-46ed-b2c4-f1c9a922f123" />
+
 
 ---
 
